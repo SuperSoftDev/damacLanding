@@ -43,7 +43,7 @@
     "jssor-slider": "^27.5.0",
     "materialize-css": "^1.0.0-rc.2",
     "mdbootstrap": "^4.8.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "path": "^0.12.7",
     "progressbar.js": "^1.0.1",
     "react-helmet": "^5.2.1",
