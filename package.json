@@ -27,7 +27,7 @@
     "compression": "^1.7.4",
     "debug": "^4.1.1",
     "embla-carousel": "^2.3.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "foundation-sites": "^6.5.3",
     "gatsby-plugin-google-tagmanager": "^2.1.7",
     "gatsby-plugin-intl": "^0.2.7-beta.0",
